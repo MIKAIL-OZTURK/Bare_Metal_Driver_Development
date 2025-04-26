@@ -17,4 +17,5 @@ This project focuses on developing peripheral drivers from scratch for ARM Corte
 ## Folder Structure
 - `/Drivers` : Peripheral drivers (GPIO, UART, I2C, SPI)
 - `/Examples` : Example applications demonstrating driver usage
+- `/Docs` : Documentation and architecture explanations
 
