@@ -15,8 +15,6 @@ This project focuses on developing peripheral drivers from scratch for ARM Corte
 - GNU ARM Embedded Toolchain (GCC)
 
 ## Folder Structure
-- `/Core` : Startup files and system initialization
 - `/Drivers` : Peripheral drivers (GPIO, UART, I2C, SPI)
 - `/Examples` : Example applications demonstrating driver usage
-- `/Docs` : Documentation and architecture explanations
 
